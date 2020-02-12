@@ -9,7 +9,7 @@ require (
 	github.com/pkg/errors v0.8.1
 	github.com/stretchr/testify v1.4.0
 	github.com/urfave/cli v1.22.2
-	github.com/uw-labs/substrate v0.0.0-20191122171342-8698f33eba8e
+	github.com/uw-labs/substrate v0.0.0-20200128100231-abc43d668589
 	github.com/uw-labs/sync v0.0.0-20190307114256-1bb306bf6e71
 	golang.org/x/net v0.0.0-20191125084936-ffdde1057850
 	google.golang.org/grpc v1.25.1
